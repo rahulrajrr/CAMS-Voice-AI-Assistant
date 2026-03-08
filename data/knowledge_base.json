@@ -1,0 +1,57 @@
+[
+  {
+    "title": "KYC Requirements for Mutual Fund Investment",
+    "category": "kyc",
+    "content": "KYC (Know Your Customer) is mandatory for all mutual fund investments in India. Required documents: PAN card (mandatory), Aadhaar card or passport for address proof, passport-size photograph, and bank account details. KYC can be completed online via Video KYC (VKYC) or offline at any CAMS service centre. Once KYC is verified, it is valid across all mutual fund investments \u2014 no re-KYC needed. NRIs require additional documents: passport copy, overseas address proof, and FEMA declaration."
+  },
+  {
+    "title": "KYC Update Process",
+    "category": "kyc",
+    "content": "To update KYC details (address, mobile, email, bank account, nominee): 1. Visit camsonline.com and log in with your folio number or PAN. 2. Go to 'KYC Update' section and submit the change request. 3. Upload supporting documents (address proof for address change, cancelled cheque for bank change). 4. Changes are processed within 2-3 working days. Alternatively, visit the nearest CAMS service centre with original documents. Mobile number update requires OTP verification on the new number. Bank account change requires a cancelled cheque of the new account."
+  },
+  {
+    "title": "SEBI Regulations for Mutual Funds",
+    "category": "compliance",
+    "content": "SEBI (Securities and Exchange Board of India) regulates all mutual funds in India. Key SEBI regulations: - Mutual funds must publish NAV daily for all open-ended schemes. - Total Expense Ratio (TER) is capped by SEBI based on AUM. - Fund houses must disclose portfolio holdings monthly. - SEBI mandates a 3-day (T+3) settlement for redemptions. - Investors can file complaints on SEBI SCORES portal at scores.sebi.gov.in. - Mutual fund advertisements must carry the statutory warning about market risks."
+  },
+  {
+    "title": "AML and FATCA Compliance",
+    "category": "compliance",
+    "content": "Anti-Money Laundering (AML): All transactions above \u20b950,000 require PAN. Suspicious transactions are reported to the Financial Intelligence Unit (FIU-IND). CAMS performs enhanced due diligence for high-value transactions. FATCA (Foreign Account Tax Compliance Act): US persons and entities must declare their US tax status when investing in Indian mutual funds. FATCA self-certification is mandatory for new folios. Existing investors must submit FATCA declaration if not already done. Non-compliance may result in account restriction or mandatory redemption."
+  },
+  {
+    "title": "Understanding NAV and Exit Load",
+    "category": "fund_info",
+    "content": "NAV (Net Asset Value) is the per-unit price of a mutual fund scheme, calculated daily. NAV = (Total Assets - Total Liabilities) / Total Units Outstanding. For equity funds, NAV is declared at end of each business day. For liquid funds, NAV is declared for all calendar days including weekends. Exit Load: A charge deducted when you redeem units before the specified holding period. Most equity funds charge 1% exit load if redeemed within 1 year. ELSS funds have a mandatory 3-year lock-in \u2014 no exit load applies after lock-in. Liquid and overnight funds typically have no exit load or a very minimal one (0.0070%)."
+  },
+  {
+    "title": "Types of Mutual Fund Categories",
+    "category": "fund_info",
+    "content": "SEBI has categorised mutual funds as: Equity Funds: Large Cap (top 100 companies), Mid Cap (101-250), Small Cap (251+), Flexi Cap (any market cap), ELSS (tax-saving with 3-year lock-in). Debt Funds: Liquid (up to 91 days), Short Duration, Corporate Bond, Gilt. Hybrid Funds: Balanced Advantage, Aggressive Hybrid, Conservative Hybrid. Index Funds and ETFs: Track a specific index like Nifty 50 or Sensex. Equity funds are suitable for long-term goals (5+ years). Debt funds are suitable for short-term goals (1-3 years). ELSS offers tax deduction under Section 80C up to \u20b91.5 lakh per year."
+  },
+  {
+    "title": "SIP \u2014 How It Works, Pause and Cancellation",
+    "category": "sip",
+    "content": "SIP (Systematic Investment Plan) allows investing a fixed amount at regular intervals. SIP can be weekly, monthly, or quarterly. Minimum SIP amount is \u20b9100-500 depending on fund. SIP pause: You can pause your SIP for 1-3 months without cancelling. Log in to camsonline.com \u2192 SIP \u2192 Pause/Modify. SIP cancellation: Must be submitted at least 7 working days before the next SIP date. Missed SIP: If bank account has insufficient funds, the SIP installment is skipped. 3 consecutive missed SIPs may result in automatic SIP cancellation by the fund house. SIP Step-Up: Automatically increase SIP amount annually (e.g., by 10% each year)."
+  },
+  {
+    "title": "Redemption Process and Timeline",
+    "category": "redemption",
+    "content": "Redemption is the process of selling mutual fund units to receive cash. For equity and hybrid funds: Redemption proceeds are credited within T+3 working days. For debt funds: T+2 working days. For liquid funds: T+1 working day. Redemption can be full (all units) or partial (specific amount or units). Tax on redemption: Short-term capital gains (STCG) for equity held < 1 year = 20%. Long-term capital gains (LTCG) for equity held > 1 year = 12.5% above \u20b91.25 lakh. ELSS funds cannot be redeemed before 3 years (lock-in period). Redemption requests submitted after 3 PM are processed at next day's NAV."
+  },
+  {
+    "title": "CAMS Services and Contact Information",
+    "category": "general",
+    "content": "CAMS (Computer Age Management Services) is India's largest mutual fund registrar and transfer agent. CAMS services: Account statement, SIP management, redemption, KYC update, nomination change. Online portal: camsonline.com \u2014 available 24/7 for all self-service needs. Mobile app: myCAMS \u2014 available on Android and iOS. Customer care: 1800-3010-6767 (toll-free), available Monday-Friday 8 AM to 8 PM. Email: enq@camsonline.com. CAMS service centres available in 270+ cities across India. For complaints: Register on SEBI SCORES or approach CAMS grievance officer."
+  },
+  {
+    "title": "Account Statement and Portfolio Report",
+    "category": "general",
+    "content": "CAMS provides consolidated account statements (CAS) covering all mutual fund holdings. CAS is sent automatically to registered email every month if there are transactions. To get a statement on demand: Visit camsonline.com \u2192 Account Statement \u2192 Enter PAN and email. Statement is sent to the registered email address within minutes. Capital Gains Statement: Available for tax filing purposes, shows gains/losses for a financial year. To download: camsonline.com \u2192 Capital Gains Statement \u2192 Select financial year. Consolidated statement includes all fund houses \u2014 HDFC, SBI, Axis, Mirae, etc."
+  },
+  {
+    "title": "Dividend and IDCW Information",
+    "category": "general",
+    "content": "IDCW (Income Distribution cum Capital Withdrawal) was formerly called Dividend option. SEBI renamed 'Dividend' to 'IDCW' in 2021 to better reflect its nature. IDCW is not guaranteed \u2014 it depends on the fund's distributable surplus. When IDCW is declared, the NAV of the fund falls by the distribution amount. IDCW is taxable in the hands of the investor as per their income tax slab. TDS of 10% is deducted on IDCW exceeding \u20b95,000 per year. Growth option is preferred for long-term wealth creation as returns are compounded. IDCW payout dates vary by fund \u2014 check the fund's scheme information document (SID)."
+  }
+]
