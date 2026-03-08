@@ -69,8 +69,8 @@ sudo apt install ffmpeg
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/cams-assistant.git
-cd cams-assistant
+git clone https://github.com/rahulrajrr/CAMS-Voice-AI-Assistant.git
+cd CAMS-Voice-AI-Assistant
 ```
 
 **2. Create and activate virtual environment**
