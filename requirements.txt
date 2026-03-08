@@ -25,4 +25,3 @@ scipy
 sarvamai
 streamlit-javascript
 chromadb
-sentence-transformers
