@@ -8,13 +8,13 @@ Supports **English · हिंदी · தமிழ்** via voice or text.
 
 ## Demo
 
-
+https://github.com/rahulrajrr/CAMS-Voice-AI-Assistant/blob/main/assets/Demo%20Video%20.mp4
 
 ---
 
 ## System Architecture
 
-![CAMS System Architecture](assets/Architecture Diagram.jpg)
+https://github.com/rahulrajrr/CAMS-Voice-AI-Assistant/blob/main/assets/Architecture%20Diagram.jpg
 
 > Full pipeline: Voice / Chat Input → Audio Processing → ASR → Retrieval → NLP → Action Engine → TTS → Response
 
