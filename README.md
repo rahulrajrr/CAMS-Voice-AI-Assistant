@@ -6,6 +6,20 @@ Supports **English · हिंदी · தமிழ்** via voice or text.
 
 ---
 
+## Demo
+
+
+
+---
+
+## System Architecture
+
+![CAMS System Architecture](assets/Architecture Diagram.jpg)
+
+> Full pipeline: Voice / Chat Input → Audio Processing → ASR → Retrieval → NLP → Action Engine → TTS → Response
+
+---
+
 ## What it does
 
 - 🎙️ Voice input — speak your query, get a spoken response
@@ -131,9 +145,11 @@ what is my SIP amount?       ← no need to repeat PAN
 |-------|-----------|
 | LLM | Groq `llama-3.1-8b-instant` |
 | Speech-to-Text | Sarvam AI Saaras:v3 |
-| Text-to-Speech | Sarvam AI Bulbul:v3 |
+| Text-to-Speech | Sarvam AI Bulbul:v3 (Rahul voice) |
+| Voice Activity Detection | Silero-VAD |
 | Backend | FastAPI + uvicorn |
 | Frontend | Streamlit |
+| Vector Database | ChromaDB |
 
 ---
 
@@ -141,7 +157,7 @@ what is my SIP amount?       ← no need to repeat PAN
 
 ```
 ├── main.py                  # FastAPI backend
-├── streamlit_app.py                   # Streamlit frontend
+├── streamlit_app.py         # Streamlit frontend
 ├── setup_data.py            # Generate synthetic data (run once)
 ├── config.py                # Settings from .env
 ├── schemas.py               # Request/response models
@@ -161,5 +177,5 @@ what is my SIP amount?       ← no need to repeat PAN
 
 ## Note
 
-Investor data is **synthetically generated** for demo purposes — no real data is used.
+Investor data is **synthetically generated** for demo purposes — no real CAMS data is used.
 Backend action handlers (redemption, KYC) are stubbed with placeholders for real API integration.
